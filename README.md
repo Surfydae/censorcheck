@@ -1,5 +1,8 @@
 # censorcheck
 
+bash <(wget -qO- https://raw.githubusercontent.com/Surfydae/censorcheck/master/censorcheck.sh) --mode dpi
+
+
 A bash script for checking the accessibility of websites potentially affected by Deep Packet Inspection (DPI) blocking or geographic restrictions.
 
 ![image](https://i.imgur.com/qBWKkWU.png)
